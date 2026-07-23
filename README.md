@@ -21,7 +21,7 @@ BMI = weight (kg) / height (m)²
 1. Clone the repo
 2. Open `index.html` in any browser
    or
-3. View the live demo: [Live Demo](your-github-pages-link)
+3. View the live demo: [Live Demo](https://diksha-wadekar.github.io/bmi-calculator/)
 
 ## Screenshot
 ![BMI Calculator](screenshot.png)
